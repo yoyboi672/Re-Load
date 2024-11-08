@@ -1,0 +1,10 @@
+Colors
+  Background: #002
+  Text: #f7feff
+  Accent: #5fe87b
+
+Fonts
+  Title: Poppins Medium 28
+  Heading: Poppins Regular 21
+  Body: Poppins Light 14
+  Caption: Poppins Light 10
